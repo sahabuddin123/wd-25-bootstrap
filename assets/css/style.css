@@ -1,0 +1,27 @@
+.row>div{
+	
+	margin-top: 20px;
+}
+
+.card-text{
+	font-family: 'SolaimanLipi', sans-serif !important;
+	font-size: 14px;
+}
+ul{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+.position-rel{
+	position: relative;
+}
+.position-abs{
+	position: absolute;
+	top: 30%;
+	left: 65%;
+	text-align: left;
+	background: rgba(0,0,0,.5);
+	padding: 20px;
+	height: 190px !important;
+	padding-top: 40px;
+}
